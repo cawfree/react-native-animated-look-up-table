@@ -30,7 +30,7 @@ const sine = createTransform(
   Math.sin, 
   {
     from: 0,
-    to: 1,
+    to: 2 * Math.PI,
     samples: 1024,
   },
 );
