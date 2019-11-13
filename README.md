@@ -1,5 +1,5 @@
 # react-native-animated-look-up-table
-Creates a look up table which can be used to interpolate across the results of an arbitrary input function. This can be used to help achieve some complex effects.
+Creates a look up table which can be used to interpolate across the results of an arbitrary input function. This can be used to help achieve some complex effects whilst maintaining performance, since they can be used in conjunction with `useNativeDriver`.
 
 ## 🚀 Getting Started
 
