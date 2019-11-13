@@ -52,7 +52,7 @@ Once generated, you can pass this to an [`Animated.Value`](https://facebook.gith
 />
 ```
 
-Since we're interpolating between samples, your look up table will smoothly transition between defined entries.
+Since we're interpolating between samples, your look up table will smoothly transition between defined entries of your complex function.
 
 ## ✌️  License
 [MIT](https://opensource.org/licenses/MIT)
