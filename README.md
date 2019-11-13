@@ -17,7 +17,7 @@ yarn add react-native-animated-look-up-table
 
 ## ✍️ Usage
 
-This library exports the function [`createTransform`](), which can be used to compile your animated look up table:
+This library exports the function [`createTransform`](https://github.com/cawfree/react-native-animated-look-up-table/blob/77a4cac00ce4865abb56c30c528f98ee2e85d4b9/index.js#L1), which can be used to compile your animated look up table:
 
 ```javascript
 import { createTransform } from 'react-native-animated-transform';
