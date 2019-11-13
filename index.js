@@ -6,7 +6,7 @@ export const createTransform = (
     from,
     to,
     samples,
-    ...extras,
+    ...extras
   } = ((options && typeof options === 'object') ? options: {});
    if (isNaN(from)) {
     throw new Error(

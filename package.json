@@ -1,6 +1,6 @@
 {
   "name": "react-native-animated-look-up-table",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Creates a look up table which can be used to interpolate across the results of an arbitrary function.",
   "keywords": [
     "react",
